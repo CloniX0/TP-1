@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    background-color:gainsboro;
+}
+header {
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:mediumseagreen;
+    color: white;
+    align-items: center;
+}
+.titre {
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 75px;
+}
+.onglet {
+    padding-right: 30px;
+}
+.img-onglet {
+    margin-left: auto;
+    margin-right: 75px;
+}
+.icon {
+    margin-left: 40px;
+}
+.border {
+    background-color: black;
+    margin-top: 1px;
+    padding: 3px;
+}
+img {
+    margin-left: 100px;
+    width: 300px;
+}
+.main {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.detail {
+    margin-top: 50px;
+}
+form {
+    margin-left: 50px;
+    background-color:whitesmoke;
+    padding: 25px;
+}
+.parent-list {
+    display: flex;
+    align-items: center;
+}
+.prix {
+    color:brown;
+    margin-left: 30px;
+}
